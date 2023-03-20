@@ -4,7 +4,6 @@ I'm Cédric and i'm full stack app / web developer with more then 7 years experi
 ## Expertise
 <img style="margin-bottom: 5px;" align="left" alt="swift" src="https://img.shields.io/badge/-swift-orange?style=for-the-badge&logo=swift&logoColor=white">
 <img align="left" alt="swift-ui" src="https://img.shields.io/badge/-swift_UI-orange?style=for-the-badge&logo=swift&logoColor=white">
-<img alt="android" src="https://img.shields.io/badge/-android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 <img align="left" alt="react-js" src="https://img.shields.io/badge/-react_JS-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 <img align="left" alt="node-js" src="https://img.shields.io/badge/-node_js-339933?style=for-the-badge&logo=node.js&logoColor=white">
 <img alt="postgresql" src="https://img.shields.io/badge/-postgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
