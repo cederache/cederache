@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Cédric and i'm full stack app / web developer with more then 7 years experience. I have been working in various fields, with a specialization in AR and VR experience. I have always been hard working and goal's focused with proven results.
+I'm Cédric and i'm full stack app / web developer with nearly 10 years experience. I have been working in various fields, with a specialization in AR and VR experience. I have always been hard working and goal's focused with proven results.
 
 ## Expertise
 <img style="margin-bottom: 5px;" align="left" alt="swift" src="https://img.shields.io/badge/-swift-orange?style=for-the-badge&logo=swift&logoColor=white">
