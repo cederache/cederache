@@ -3,13 +3,18 @@ I'm Cédric and i'm full stack app / web developer with nearly 10 years experien
 
 ## Expertise
 <img style="margin-bottom: 5px;" align="left" alt="swift" src="https://img.shields.io/badge/-swift-orange?style=for-the-badge&logo=swift&logoColor=white">
-<img alt="swift-ui" src="https://img.shields.io/badge/-swift_UI-orange?style=for-the-badge&logo=swift&logoColor=white">
+<img style="margin-bottom: 5px;" alt="swift-UI" src="https://img.shields.io/badge/-swift%20UI-orange?style=for-the-badge&logo=swift&logoColor=white">
+
+<img align="left" alt="php" src="https://img.shields.io/badge/-php-4169E1?style=for-the-badge&logo=php&logoColor=white">
+<img alt="symfony" src="https://img.shields.io/badge/-symfony-4169E1?style=for-the-badge&logo=symfony&logoColor=white">
+
 <img align="left" alt="react-js" src="https://img.shields.io/badge/-react_JS-61DAFB?style=for-the-badge&logo=react&logoColor=white">
-<img align="left" alt="node-js" src="https://img.shields.io/badge/-node_js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-<img alt="postgresql" src="https://img.shields.io/badge/-postgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+<img alt="node-js" src="https://img.shields.io/badge/-node_js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+
 <img align="left" alt="js" src="https://img.shields.io/badge/-JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 <img align="left" alt="html" src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img alt="css" src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
 <img alt="unity3D" src="https://img.shields.io/badge/-unity3D-000000?style=for-the-badge&logo=unity&logoColor=white">
 
 ## Connect with me
